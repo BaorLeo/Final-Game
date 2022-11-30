@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cf5e11c14b758f42bce7cbd91427cff, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: '!!!!'
+    speaker: {fileID: 11400000, guid: 814315daec2954d448205717fe3df8fd, type: 2}
+    charactorImage: 0
+  - text: "Chuy\u1EC7n g\xEC th\u1EBF ???"
+    speaker: {fileID: 11400000, guid: 814315daec2954d448205717fe3df8fd, type: 2}
+    charactorImage: 0
+  - text: "B\u1EA3o B\u1EA3o ... t\u1EDB s\u1EE3 qu\xE1 ..."
+    speaker: {fileID: 11400000, guid: 749f27a8d7c7a7245bc3eba5ec93c5dc, type: 2}
+    charactorImage: 3
+  background: {fileID: 21300000, guid: e6916087ca54fa541a58f7a93f3b4fab, type: 3}
+  nextScene: {fileID: 0}

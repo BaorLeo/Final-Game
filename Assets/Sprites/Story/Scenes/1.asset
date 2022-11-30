@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cf5e11c14b758f42bce7cbd91427cff, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "\u01A0 !! M\u1ECDi ng\u01B0\u1EDDi \u0111\xE2u ???"
+    speaker: {fileID: 11400000, guid: 814315daec2954d448205717fe3df8fd, type: 2}
+    charactorImage: 0
+  - text: "T\u1EDB kh\xF4ng bi\u1EBFt ..."
+    speaker: {fileID: 11400000, guid: 749f27a8d7c7a7245bc3eba5ec93c5dc, type: 2}
+    charactorImage: 3
+  - text: ...
+    speaker: {fileID: 11400000, guid: 814315daec2954d448205717fe3df8fd, type: 2}
+    charactorImage: 4
+  - text: "Ti\u1EC3u H\u1EA1 ... C\u1EADu c\xF3 ch\u1EAFc l\xE0 ph\xF2ng n\xE0y kh\xF4ng
+      ... ???"
+    speaker: {fileID: 11400000, guid: 814315daec2954d448205717fe3df8fd, type: 2}
+    charactorImage: 5
+  - text: "\u0110\xFAng m\xE0 , ch\xFAng n\xF3 b\u1EA3o \u0111i\u1EC3m k\u1EBFt th\xFAc
+      th\u1EED th\xE1ch l\xE0 \u1EDF ph\xF2ng n\xE0y m\xE0 ...?"
+    speaker: {fileID: 11400000, guid: 749f27a8d7c7a7245bc3eba5ec93c5dc, type: 2}
+    charactorImage: 2
+  - text: "B\u1EA3o t\u1EADp trung \u1EDF \u0111\xE2y ... Nh\u01B0ng ...\u1EDE \u0111\xE2y
+      r\xF5 r\xE0ng ch\u1EB3ng c\xF3 ai ..."
+    speaker: {fileID: 11400000, guid: 814315daec2954d448205717fe3df8fd, type: 2}
+    charactorImage: 0
+  background: {fileID: 21300000, guid: 7204bf7bd2648e848801d1b862004153, type: 3}
+  nextScene: {fileID: 11400000, guid: fbda49ce08c57e8448b9e0178100d171, type: 2}

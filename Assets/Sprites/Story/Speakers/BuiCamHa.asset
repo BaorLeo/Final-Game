@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 041291b8b435f6148b976a3d7a909ec6, type: 3}
+  m_Name: BuiCamHa
+  m_EditorClassIdentifier: 
+  speakerName: "B\xF9i C\u1EA9m H\u1EA1"
+  textColor: {r: 1, g: 0.6650944, b: 0.6650944, a: 1}
